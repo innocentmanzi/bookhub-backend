@@ -77,4 +77,4 @@ For questions or support, reach out:
 - Email: i.manzi@alustudent.com
 
 ---
-✨ Happy Coding! 🚀
+✨ Thanks! 🚀
