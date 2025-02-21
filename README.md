@@ -26,7 +26,7 @@ Ensure you have **Node.js** and **MongoDB** installed on your system.
 ### Clone the Repository
 ```sh
 git clone https://github.com/innocentmanzi/bookhub-backend.git
-cd book-hub
+cd bookhub
 ```
 
 ### Install Dependencies
